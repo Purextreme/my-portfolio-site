@@ -1,0 +1,15 @@
+# Hugo public folder
+/public/
+
+# Hugo resources folder
+/resources/_gen/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# VS Code related files
+.vscode/
+
+# Node modules (if you use them for front-end development)
+/node_modules/

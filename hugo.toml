@@ -1,0 +1,33 @@
+languageCode = 'zh-cn'
+title = '展示主页'
+theme = "gallery"
+copyright = "© 小鱼吃喵"
+
+[menu]
+  [[menu.main]]
+    name = "AIGC"
+    url = "/aigc/"
+    weight = 1
+  [[menu.main]]
+    name = "产品动画"
+    url = "/产品动画/"
+    weight = 2
+  [[menu.main]]
+    name = "后期制作"
+    url = "/后期制作/"
+    weight = 3
+  [[menu.main]]
+    name = "其它"
+    url = "/其它/"
+    weight = 4
+
+[params]
+  defaultTheme = "dark"
+  description = "我的作品展示页面，包含各种创意作品。"
+  title = "我的展示页面"
+  [params.author]
+    name = "小鱼吃喵"
+  [params.socialIcons]
+    email = "mailto:406375678@qq.com"
+  [params.Site.Copyright]
+    copyright = "© 小鱼吃喵"
